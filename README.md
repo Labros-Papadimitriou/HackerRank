@@ -1,7 +1,10 @@
-# Python
-[Go to Data Types](#data-types)
+# HackerRank
+## Solutions in Python Problems
+*[Data Types](#data-types)
+*[Strings](#strings)
+*[Sets](#sets)
 
-## Data Types
+### Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
 | Basic Data Types | Easy | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [list-comprehensions.py](./Python/list-comprehensions.py) |
@@ -10,7 +13,7 @@
 | Basic Data Types | Easy | [Find the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [find-the-percentage.py](./Python/find-the-percentage.py) |
 | Basic Data Types | Easy | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [lists.py](./Python/lists.py) |
 | Basic Data Types | Easy | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [tuples.py](./Python/tuples.py) |
-## Strings
+### Strings
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
 | Strings | Easy | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [swap-case.py](./Python/swap-case.py) |
@@ -27,7 +30,7 @@
 | Strings | Easy | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [capitalize.py](./Python/capitalize.py) | 
 | Strings | Medium | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [the-minion-game.py](./Python/the-minion-game.py) | 
 | Strings | Medium | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [merge-the-tools.py](./Python/merge-the-tools.py) |
-## Sets
+### Sets
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
 | Sets      | Easy |  |  |
