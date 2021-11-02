@@ -3,4 +3,6 @@
 
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
-| test      | ok         |  123       | asd      |
+| Basic Data | List Comprehensions | link | link |
+|   Types |
+|----------|------------|------------|----------|
