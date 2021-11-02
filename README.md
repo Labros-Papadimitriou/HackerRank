@@ -1,10 +1,10 @@
 # HackerRank
 ## Solutions in Python Problems
-- [Data Types](#data-types)
+- [Basic Data Types](#data-types)
 - [Strings](#strings)
 - [Sets](#sets)
 
-### Data Types
+### Basic Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
 | Basic Data Types | Easy | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [list-comprehensions.py](./Python/list-comprehensions.py) |
