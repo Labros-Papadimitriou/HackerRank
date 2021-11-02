@@ -1,8 +1,8 @@
 # HackerRank
 ## Solutions in Python Problems
--[Data Types](#data-types)
--[Strings](#strings)
--[Sets](#sets)
+- [Data Types](#data-types)
+- [Strings](#strings)
+- [Sets](#sets)
 
 ### Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
