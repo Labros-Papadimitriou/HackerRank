@@ -1,5 +1,5 @@
-
 # Python
+-[1. Data Types](#1-datatypes)
 
 ## Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
