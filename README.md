@@ -17,8 +17,8 @@
 | Strings | Easy | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [string-split-and-join.py](./Python/string-split-and-join.py) | 
 | Strings | Easy | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [whats-your-name.py](./Python/whats-your-name.py) | 
 | Strings | Easy | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [mutations.py](./Python/mutations.py) | 
-| Strings | Easy | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [find-a-string.py](./Python/find-a-string) | 
-| Strings | Easy | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | [string-validators.py](./Python/string-validators.py)] | 
+| Strings | Easy | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [find-a-string.py](./Python/find-a-string.py) | 
+| Strings | Easy | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | [string-validators.py](./Python/string-validators.py) | 
 | Strings | Easy | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem) | [text-alignment.py](./Python/text-alignment.py) | 
 | Strings | Easy | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem) | [text-wrap.py](./Python/text-wrap.py) | 
 | Strings | Easy | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [designer-door-mat.py](./Python/designer-door-mat.py) | 
