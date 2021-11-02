@@ -13,7 +13,7 @@
 ## Strings
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
-| Strings | Easy | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [swape-case.py](./Python/swape-case.py) |
+| Strings | Easy | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [swap-case.py](./Python/swap-case.py) |
 | Strings | Easy | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [string-split-and-join.py](./Python/string-split-and-join.py) | 
 | Strings | Easy | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [whats-your-name.py](./Python/whats-your-name.py) | 
 | Strings | Easy | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [mutations.py](./Python/mutations.py) | 
