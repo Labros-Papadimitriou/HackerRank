@@ -1,5 +1,5 @@
 # Python
-
+[Go to Data Types](#data-types)
 
 ## Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
