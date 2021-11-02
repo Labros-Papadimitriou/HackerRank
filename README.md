@@ -1,6 +1,6 @@
 # HackerRank
 ## Solutions in Python Problems
-- [Basic Data Types](#data-types)
+- [Basic Data Types](#basic-data-types)
 - [Strings](#strings)
 - [Sets](#sets)
 
