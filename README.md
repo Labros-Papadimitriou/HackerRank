@@ -22,7 +22,7 @@
 | Strings | Easy | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem) | [text-alignment.py](./Python/text-alignment.py) | 
 | Strings | Easy | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem) | [text-wrap.py](./Python/text-wrap.py) | 
 | Strings | Easy | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [designer-door-mat.py](./Python/designer-door-mat.py) | 
-| Strings | Easy | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [string-formatting.py](./Python/string-formating.py) | 
+| Strings | Easy | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [string-formatting.py](./Python/string-formatting.py) | 
 | Strings | Easy | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [alphabet-rangoli.py](./Python/alphabet-rangoli.py) | 
 | Strings | Easy | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [capitalize.py](./Python/capitalize.py) | 
 | Strings | Medium | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [the-minion-game.py](./Python/the-minion-game.py) | 
