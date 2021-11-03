@@ -6,6 +6,7 @@
 - [Math](#math)
 - [Itertools](#itertools)
 - [Collections](#collections)
+- [Date and Time](#date-and-time)
 
 ### Basic Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
@@ -85,6 +86,8 @@
 ### Date and Time
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
+| Date and Time | Medium | [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem) | [time-delta.py](./Python/time-delta.py) |
+| Date and Time | Easy | [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem) | [calendar-module.py](./Python/calendar-module.py) |
 
 ### Errors and Exceptions
 | Subdomain |	Difficulty | Challenge	| Solution |
