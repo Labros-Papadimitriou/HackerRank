@@ -7,6 +7,7 @@
 - [Itertools](#itertools)
 - [Collections](#collections)
 - [Date and Time](#date-and-time)
+- [Errors and Exceptions](#errors-and-exceptions)
 
 ### Basic Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
@@ -92,6 +93,8 @@
 ### Errors and Exceptions
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
+| Errors and Exceptions | Easy | [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem) | [exceptions.py](./Python/exceptions.py) |
+| Errors and Exceptions | Easy | [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem) | [incorrect-regex.py](./Python/incorrect-regex.py) |
 
 ### Classes
 | Subdomain |	Difficulty | Challenge	| Solution |
