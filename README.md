@@ -4,6 +4,7 @@
 - [Strings](#strings)
 - [Sets](#sets)
 - [Math](#math)
+- [Itertools](#itertools)
 
 ### Basic Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
@@ -57,4 +58,59 @@
 | Math | Easy | [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [mod-divmod.py](./Python/mod-divmod.py) |
 | Math | Easy | [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [power-mod-power.py](./Python/power-mod-power.py) |
 | Math | Easy | [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [integers-come-in-all-sizes.py](./Python/integers-come-in-all-sizes.py) |
+### Itertools
+| Subdomain |	Difficulty | Challenge	| Solution |
+|-----------|------------|------------|----------|
+| Itertools | Hard | []() | []() |
+| Itertools | Medium | []() | []() |
+| Itertools | Medium | []() | []() |
+| Itertools | Easy | []() | []() |
+| Itertools | Easy | []() | []() |
+| Itertools | Easy | []() | []() |
+| Itertools | Easy | []() | []() |
+
+### Collections
+| Subdomain |	Difficulty | Challenge	| Solution |
+|-----------|------------|------------|----------|
+
+### Date and Time
+| Subdomain |	Difficulty | Challenge	| Solution |
+|-----------|------------|------------|----------|
+
+### Errors and Exceptions
+| Subdomain |	Difficulty | Challenge	| Solution |
+|-----------|------------|------------|----------|
+
+### Classes
+| Subdomain |	Difficulty | Challenge	| Solution |
+|-----------|------------|------------|----------|
+
+### Built-ins
+| Subdomain |	Difficulty | Challenge	| Solution |
+|-----------|------------|------------|----------|
+
+### Python Functionals
+| Subdomain |	Difficulty | Challenge	| Solution |
+|-----------|------------|------------|----------|
+
+### Regex and Parsing
+| Subdomain |	Difficulty | Challenge	| Solution |
+|-----------|------------|------------|----------|
+
+### XML
+| Subdomain |	Difficulty | Challenge	| Solution |
+|-----------|------------|------------|----------|
+
+### Closures and Decorators
+| Subdomain |	Difficulty | Challenge	| Solution |
+|-----------|------------|------------|----------|
+
+### Numpy
+| Subdomain |	Difficulty | Challenge	| Solution |
+|-----------|------------|------------|----------|
+
+### Debugging
+| Subdomain |	Difficulty | Challenge	| Solution |
+|-----------|------------|------------|----------|
+
 
