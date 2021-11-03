@@ -9,6 +9,7 @@
 - [Date and Time](#date-and-time)
 - [Errors and Exceptions](#errors-and-exceptions)
 - [Classes](#classes)
+- [Built-ins](#built-ins)
 
 ### Basic Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
@@ -106,6 +107,12 @@
 ### Built-ins
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
+| Built-ins | Medium | [ginortS](https://www.hackerrank.com/challenges/ginorts/problem) | [ginorts.py](./Python/ginorts.py) |
+| Built-ins | Medium | [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem) | [athlete-sort.py](./Python/athlete-sort.py) |
+| Built-ins | Easy | [Any or All](https://www.hackerrank.com/challenges/any-or-all/problem) | [any-or-all.py](./Python/any-or-all.py) |
+| Built-ins | Easy | [Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem) | [python-evaluations.py](./Python/python-evaluations.py) |
+| Built-ins | Easy | [Input()](https://www.hackerrank.com/challenges/input/problem) | [input.py](./Python/input.py) |
+| Built-ins | Easy | [Zipped!](https://www.hackerrank.com/challenges/zipped/problem) | [zipped.py](./Python/zipped.py) |
 
 ### Python Functionals
 | Subdomain |	Difficulty | Challenge	| Solution |
