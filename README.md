@@ -46,4 +46,14 @@
 | Sets      | Easy | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [the-captains-room.py](./Python/the-captains-room.py) |
 | Sets      | Easy | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [check-subset.py](./Python/check-subset.py) |
 | Sets      | Easy | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [check-strict-superset.py](./Python/check-strict-superset.py) |
+### Sets
+| Subdomain |	Difficulty | Challenge	| Solution |
+|-----------|------------|------------|----------|
+| Math | Medium | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem) | [find-angle-mbc.py](./Python/find-angle-mbc.py) |
+| Math | Medium | [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem) | [triangle-quest.py](./Python/triangle-quest.py) |
+| Math | Medium | [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem) | [triangle-quest-2.py](./Python/triangle-quest-2.py) |
+| Math | Easy | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [polar-coordinates.py](./Python/polar-coordinates.py) |
+| Math | Easy | [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem) | [mod-divmod.py](./Python/mod-divmod.py) |
+| Math | Easy | [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem) | [power-mod-power.py](./Python/power-mod-power.py) |
+| Math | Easy | [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem) | [integers-come-in-all-sizes.py](./Python/integers-come-in-all-sizes.py) |
 
