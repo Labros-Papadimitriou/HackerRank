@@ -33,16 +33,17 @@
 ### Sets
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
-| Sets      | Easy |  |  |
-| Sets      | Easy |  |  |
-| Sets      | Easy |  |  |
-| Sets      | Easy |  |  |
-| Sets      | Easy |  |  |
-| Sets      | Easy |  |  |
-| Sets      | Easy |  |  |
-| Sets      | Easy |  |  |
-| Sets      | Easy |  |  |
-| Sets      | Easy |  |  |
-| Sets      | Easy |  |  |
-| Sets      | Easy |  |  |
-| Sets      | Medium |  |  |
+| Sets      | Medium | [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem) | [no-idea.py](./Python/no-idea.py) |
+| Sets      | Easy | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [introduction-to-sets.py](./Python/introduction-to-sets.py) |
+| Sets      | Easy | [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem) | [symmetric-difference.py](./Python/symmetric-difference.py) |
+| Sets      | Easy | [Set .add()](https://www.hackerrank.com/challenges/py-set-add/problem) | [set-add.py](./Python/set-add.py) |
+| Sets      | Easy | [Set .discard(),.remove()&.pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [set-discard-remove-pop.py](./Python/set-discard-remove-pop.py) |
+| Sets      | Easy | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem) | [set-union.py](./Python/set-union.py) |
+| Sets      | Easy | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem) | [set-intersection.py](./Python/set-intersection.py) |
+| Sets      | Easy | [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem) | [set-difference.py](./Python/set-difference.py) |
+| Sets      | Easy | [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [set-symmetric-difference.py](./Python/set-symmetric-difference.py) |
+| Sets      | Easy | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem) | [set-mutations.py](./Python/set-mutations.py) |
+| Sets      | Easy | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [the-captains-room.py](./Python/the-captains-room.py) |
+| Sets      | Easy | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [check-subset.py](./Python/check-subset.py) |
+| Sets      | Easy | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [check-strict-superset.py](./Python/check-strict-superset.py) |
+
