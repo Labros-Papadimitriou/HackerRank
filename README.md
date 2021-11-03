@@ -61,13 +61,13 @@
 ### Itertools
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
-| Itertools | Hard | []() | []() |
-| Itertools | Medium | []() | []() |
-| Itertools | Medium | []() | []() |
-| Itertools | Easy | []() | []() |
-| Itertools | Easy | []() | []() |
-| Itertools | Easy | []() | []() |
-| Itertools | Easy | []() | []() |
+| Itertools | Hard | [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem) | [maximaze-it.py](./Python/maximaze-it.py) |
+| Itertools | Medium | [Iterables and Iterators](https://www.hackerrank.com/challenges/iterables-and-iterators/problem) | [iterables-and-iterators.py](./Python/iterables-and-iterators.py) |
+| Itertools | Medium | [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem) | [compress-the-string.py](./Python/compress-the-string.py) |
+| Itertools | Easy | [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem) | [itertools-combinations.py](./Python/itertools-combinations.py) |
+| Itertools | Easy | [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem) | [itertools-combinations.py](./Python/itertools-combinations.py) |
+| Itertools | Easy | [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [itertools-permutations.py](./Python/itertools-permutations.py) |
+| Itertools | Easy | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | [itertools-product.py](./Python/itertools-product.py) |
 
 ### Collections
 | Subdomain |	Difficulty | Challenge	| Solution |
