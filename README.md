@@ -3,6 +3,7 @@
 - [Basic Data Types](#basic-data-types)
 - [Strings](#strings)
 - [Sets](#sets)
+- [Math](#math)
 
 ### Basic Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
