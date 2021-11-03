@@ -8,6 +8,7 @@
 - [Collections](#collections)
 - [Date and Time](#date-and-time)
 - [Errors and Exceptions](#errors-and-exceptions)
+- [Classes](#classes)
 
 ### Basic Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
@@ -99,6 +100,8 @@
 ### Classes
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
+| Classes | Medium | [Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem) | [dealing-with-complex-numbers.py](./Python/dealing-with-complex-numbers.py) |
+| Classes | Easy | [Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem) | [find-the-torsional-angle.py](./Python/find-the-torsional-angle.py) |
 
 ### Built-ins
 | Subdomain |	Difficulty | Challenge	| Solution |
