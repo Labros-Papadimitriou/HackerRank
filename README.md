@@ -5,6 +5,7 @@
 - [Sets](#sets)
 - [Math](#math)
 - [Itertools](#itertools)
+- [Collections](#collections)
 
 ### Basic Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
@@ -72,6 +73,14 @@
 ### Collections
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
+| Collections | Medium | [Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem) | [pilling-up.py](./Python/pilling-up.py) |
+| Collections | Medium | [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem) | [company-logo.py](./Python/company-logo.py) |
+| Collections | Medium | [Word Order](https://www.hackerrank.com/challenges/word-order/problem) | [word-order.py](./Python/word-order.py) |
+| Collections | Easy | [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem) | [collections-deque.py](./Python/collections-deque.py) |
+| Collections | Easy | [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) | [collections-ordereddict.py](./Python/collections-ordereddict.py) |
+| Collections | Easy | [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | [collections-namedtuple.py](./Python/collections-namedtuple.py) |
+| Collections | Easy | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [defaultdict-tutorial.py](./Python/defaultdict-tutorial.py) |
+| Collections | Easy | [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem) | [collections-counter.py](./Python/collections-counter.py) |
 
 ### Date and Time
 | Subdomain |	Difficulty | Challenge	| Solution |
