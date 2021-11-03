@@ -1,6 +1,9 @@
-a = int(input())
-a_roll = set(map(int, input().split()))
-b = int(input())
-b_roll = set(map(int, input().split()))
+m = int(input())
+m_roll = set(map(int, input().split()))
+n = int(input())
+n_roll = set(map(int, input().split()))
 
-print(len(a_roll.symmetric_difference(b_roll)))
+total = m_roll.symmetric_difference(n_roll)
+l_total = sorted(list(total))
+for x in l_total:
+    print(x)
