@@ -16,6 +16,8 @@
 ### Strings
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
+| Strings | Medium | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [the-minion-game.py](./Python/the-minion-game.py) | 
+| Strings | Medium | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [merge-the-tools.py](./Python/merge-the-tools.py) |
 | Strings | Easy | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [swap-case.py](./Python/swap-case.py) |
 | Strings | Easy | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [string-split-and-join.py](./Python/string-split-and-join.py) | 
 | Strings | Easy | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [whats-your-name.py](./Python/whats-your-name.py) | 
@@ -28,8 +30,6 @@
 | Strings | Easy | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [string-formatting.py](./Python/string-formatting.py) | 
 | Strings | Easy | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [alphabet-rangoli.py](./Python/alphabet-rangoli.py) | 
 | Strings | Easy | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [capitalize.py](./Python/capitalize.py) | 
-| Strings | Medium | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [the-minion-game.py](./Python/the-minion-game.py) | 
-| Strings | Medium | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [merge-the-tools.py](./Python/merge-the-tools.py) |
 ### Sets
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
