@@ -97,20 +97,7 @@
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
 
-### XML
-| Subdomain |	Difficulty | Challenge	| Solution |
-|-----------|------------|------------|----------|
-
-### Closures and Decorators
-| Subdomain |	Difficulty | Challenge	| Solution |
-|-----------|------------|------------|----------|
-
-### Numpy
-| Subdomain |	Difficulty | Challenge	| Solution |
-|-----------|------------|------------|----------|
-
 ### Debugging
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
-
 
