@@ -10,6 +10,7 @@
 - [Errors and Exceptions](#errors-and-exceptions)
 - [Classes](#classes)
 - [Built-ins](#built-ins)
+- [Python Functionals](#python-functionals)
 
 ### Basic Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
