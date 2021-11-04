@@ -117,6 +117,9 @@
 ### Python Functionals
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
+| Python Functionals | Medium | [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem) | [reduce-function.py](./Python/reduce-function.py) |
+| Python Functionals | Medium | [Validating Email Addresses](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem) | [validating-email-addresses.py](./Python/validating-email-addresses.py) |
+| Python Functionals | Easy | [Map and Lambda](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem) | [map-and-lambda.py](./Python/map-and-lambda.py) |
 
 ### Regex and Parsing
 | Subdomain |	Difficulty | Challenge	| Solution |
