@@ -11,6 +11,8 @@
 - [Classes](#classes)
 - [Built-ins](#built-ins)
 - [Python Functionals](#python-functionals)
+- [Regex and Parsing](#regex-and-parsing)
+- [Debugging](#debugging)
 
 ### Basic Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
@@ -129,4 +131,15 @@
 ### Debugging
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
+| Debugging | Medium | [Words Score](https://www.hackerrank.com/challenges/words-score/problem) | [words-score.py](./Python/words-score.py) |
+| Debugging | Medium | [Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem) | [default-arguments.py](./Python/default-arguments.py) |
+
+
+
+
+
+
+
+
+
 
