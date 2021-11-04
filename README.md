@@ -127,19 +127,21 @@
 ### Regex and Parsing
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
+| Regex and Parsing | Medium | [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number/problem) | [validating-credit-card-numbers.py](./Python/validating-credit-card-numbers.py) |
+| Regex and Parsing | Medium | [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem) | [regex-substitution.py](./Python/regex-substitution.py)
+| Regex and Parsing | Easy | [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem) | [validating.py](./Python/validating.py) |
+| Regex and Parsing | Easy | [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code/problem) | [hex-color-code.py](./Python/hex-color-code.py) |
+| Regex and Parsing | Easy | [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem) | [validating-and-parsing-email-addresses.py](./Python/validating-and-parsing-email-addresses.py) |
+| Regex and Parsing | Easy | [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem) | [validating-phone-numbers.py](./Python/validating-phone-numbers.py) |
+| Regex and Parsing | Easy | [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem) | [validating-roman-numerals.py](./Python/validating-roman-numerals.py) |
+| Regex and Parsing | Easy | [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem) | [re-start-and-re-end.py](./Python/re-start-and-re-end.py) |
+| Regex and Parsing | Easy | [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem) | [re-findall-re-finditer.py](./Python/re-findall-re-finditer.py) |
+| Regex and Parsing | Easy | [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem) | [group-groups-groupdict.py](./Python/group-groups-groupdict.py) |
+| Regex and Parsing | Easy | [Re.split()](https://www.hackerrank.com/challenges/re-split/problem) | [re-split.py](./Python/re-split.py) |
+| Regex and Parsing | Easy | [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem) | [detect-flaoting-point-number.py](./Python/detect-flaoting-point-number.py) |
 
 ### Debugging
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
 | Debugging | Medium | [Words Score](https://www.hackerrank.com/challenges/words-score/problem) | [words-score.py](./Python/words-score.py) |
 | Debugging | Medium | [Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem) | [default-arguments.py](./Python/default-arguments.py) |
-
-
-
-
-
-
-
-
-
-
