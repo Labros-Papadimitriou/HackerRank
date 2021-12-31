@@ -13,7 +13,7 @@
 - [Python Functionals](#python-functionals)
 - [Regex and Parsing](#regex-and-parsing)
 - [Debugging](#debugging)
-
+ 
 ### Basic Data Types
 | Subdomain |	Difficulty | Challenge	| Solution |
 |-----------|------------|------------|----------|
